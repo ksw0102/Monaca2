@@ -1,0 +1,14 @@
+Lecture - 각 강의마다 LectureNotice 로 이동하는 navigate 달아줌
+Notice 각 강의의 공지사항마다 LectureName의 데이터를 받아와 뿌려줌
+UserCourseMGTM - 찜 해제 아이콘 크기 수정 / '찜해제' 문자 삭제 (왜 들어있던 거지?)
+
+write a notice 색 빼기 0
+등록 하기 버튼에 adminNotice로 가는 nav 달기 0
+
+유저룸 loginState로 이름 받아오기 0
+프로페서,교수 방은 이름 빼버리기 0
+adminBar 질문 모아보기 빼기 0
+pfrbar 강의 매출 관리 추가 0
+
+카트 부분은 선생님이랑 해봐야 할 듯
+하..
